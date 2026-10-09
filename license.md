@@ -135,4 +135,4 @@ Yes — download again and repeat the steps.
 | **License** | Shared under the MIT License |
 | **Download** | the button in the Quick Start section |
 
-*Updated 2026-10-08 · Shared under the MIT License*
+*Updated 2026-10-09 · Shared under the MIT License*
